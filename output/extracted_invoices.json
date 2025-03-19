@@ -1,0 +1,7 @@
+[
+    {
+        "invoice_number": "number",
+        "invoice_date": "01/01/1970",
+        "line_items": []
+    }
+]

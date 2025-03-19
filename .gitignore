@@ -1,0 +1,16 @@
+# Ignore the build directory
+build/
+
+# Ignore the virtual environment directory
+venv/
+.env
+
+# Ignore the executable files
+Pratilekh.exe
+Pratilekh_Backend.exe
+
+# Optionally, ignore IDE configuration directories
+.idea/
+.vscode/
+.macOS_frontend/
+.Release-24.08.0-0.zip
